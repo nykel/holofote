@@ -1,11 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "skus": [
+        {
+            "id": 1,
+            "name": "produt 01",
+            "categogy": "Creme"
+        },
+        {
+            "id": 2,
+            "name": "produt 02",
+            "categogy": "Creme"
+        },
+        {
+            "id": 3,
+            "name": "produt 03",
+            "categogy": "Creme"
+
+        }
+    ]
 }
